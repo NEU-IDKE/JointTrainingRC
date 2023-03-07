@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="3090">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/hy-tmp/REDEMO" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="309003">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/hy-tmp/RE_Demo" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="30901">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/hy-tmp" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="30902">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/hy-tmp" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pingyi">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/hy-tmp" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

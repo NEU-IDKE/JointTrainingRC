@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e211bc7d-e179-4a01-bc16-559a55f7c5ad" name="3090" url="http://i-1.gpushare.com">
+        <fileTransfer host="i-1.gpushare.com" port="33898" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="33898" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="9055e7ef-6315-4f28-8d1a-21f5b915a8d5" name="30901" url="http://i-1.gpushare.com">
+        <fileTransfer host="i-1.gpushare.com" port="7456" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="7456" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="be6d98cf-0a9f-4f67-93c6-1182b2759324" name="30902" url="http://i-1.gpushare.com">
+        <fileTransfer host="i-1.gpushare.com" port="18679" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="18679" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="fbbad52e-e198-4861-afc8-e95d9f091037" name="309003" url="http://i-1.gpushare.com">
+        <fileTransfer host="i-1.gpushare.com" port="9721" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="9721" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d64b7153-8ede-40b6-a14d-e54cb959c6c9" name="pingyi" url="http://i-1.gpushare.com">
+        <fileTransfer host="i-1.gpushare.com" port="25080" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="25080" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
