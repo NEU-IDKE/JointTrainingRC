@@ -1,7 +1,7 @@
 # JointTrainingRC
-一种联合训练框架用于学习更加可辩别的关系特征
-## 准备事项
-1. 创建pretrained_model目录，下载相应的预训练权重
-2. 新建outputs/best_checkpoint目录，用来保存断点
-3. 因为实验用到了对比学习，所以需要将数据集处理成对比学习的格式，在datasets目录中解压即可
-4. 执行train.py即可
+A Joint Training framework for learning more distinguishable relation features in Relation Classiﬁcation
+## Description
+1. Create a pretrained_model directory and download the corresponding pretrained weights
+2. Create a new outputs/best_checkpoint directory to save breakpoints
+3. Because the experiment uses contrastive learning, the dataset needs to be processed into the format of comparative learning, and it can be decompressed in the datasets directory
+4. Execute train.py
